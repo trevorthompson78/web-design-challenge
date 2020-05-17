@@ -18,8 +18,14 @@ body{background-color: lightcoral;}
 
 .container-fluid{background-color: seashell;}
 
-.container{background-color: seashell;}
+.container{background-color: seashell;
+	align-content: center;}
+
 p{text-align: inherit;}
+
+h4{font-size: small;}
+
+img a:hover{border-color: rgb(34, 172, 172) ;}
 
 
 
