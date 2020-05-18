@@ -25,7 +25,13 @@ p{text-align: inherit;}
 
 h4{font-size: small;}
 
-img a:hover{border-color: rgb(34, 172, 172) ;}
+
+
+.dropdown-menu a:hover {
+	background-color:grey;
+	color: rgb(34, 172, 172);}
+
+
 
 
 
